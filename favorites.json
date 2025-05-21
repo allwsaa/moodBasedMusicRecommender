@@ -1,0 +1,32 @@
+[
+    {
+        "mood": "calm",
+        "track": {
+            "name": "Lofi Beats",
+            "url": "https://open.spotify.com/track/4PE1rTwQpEysQq54cBc8yi",
+            "preview_url": null,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ddc32e7664c730b5382f778e",
+            "artist": "Lofi Radiance"
+        }
+    },
+    {
+        "mood": "angry",
+        "track": {
+            "name": "ENEMY AND REVENGE",
+            "url": "https://open.spotify.com/track/2DF5HNnZTiNgY8JDOvJQ2S",
+            "preview_url": null,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733bbe578baa93a5e06a7c5a88",
+            "artist": "Mista Playa"
+        }
+    },
+    {
+        "mood": "depressed",
+        "track": {
+            "name": "all the kids are depressed - Acoustic Version",
+            "url": "https://open.spotify.com/track/1hnGxEcJnwcQQucQJzsvWu",
+            "preview_url": null,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d3f3d304291495588538cad",
+            "artist": "Emilda"
+        }
+    }
+]
