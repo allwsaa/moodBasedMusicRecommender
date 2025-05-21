@@ -11,7 +11,6 @@ This Streamlit app detects a user’s mood from text input and recommends Spotif
 - 🤖 **AI-Generated Lyrics** from GPT-2 based on detected mood.
 - 💾 **Favorites Saving** to `favorites.json`.
 - 🎨 **Responsive Grid Layout**: tracks displayed in a 4×3 grid with images and audio.
-- 🌙 **Dark Mode Toggle**.
 - 🔊 Built-in preview player for each track.
 
 ---
